@@ -63,7 +63,3 @@ The project aims to analyze sales data using **PySpark** to identify sales trend
 ## Conclusion
 
 This project demonstrates how PySpark can be applied to analyze sales data efficiently and transform large datasets into meaningful business insights. By combining distributed data processing, visualization, and business analysis, the project supports evidence-based decision-making and strategic business improvements.
-
-**Institution:** University of Economics Ho Chi Minh City (UEH)
-
-**Assignment:** Case Study 1 – Sales Data Analysis Using PySpark
