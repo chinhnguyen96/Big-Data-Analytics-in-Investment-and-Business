@@ -6,53 +6,66 @@ This project is part of **Case Study 1: Sales Data Analysis Using PySpark** for 
 
 The project aims to analyze sales data using **PySpark** to identify sales trends, evaluate business performance, and generate actionable insights to support data-driven decision-making.
 
-## Project Objectives
+## Team Task Assignment
 
-- Process and analyze sales data using PySpark.
-- Explore sales performance, customer behavior, and product trends.
-- Answer at least six business questions using data.
-- Create meaningful visualizations to communicate analytical findings.
-- Provide business insights and actionable recommendations.
+### 1. Data Preparation & KPI (Tasks 1–4)
+**Responsibilities:**
+- Load, explore, and clean the dataset.
+- Perform feature engineering and calculate key sales performance indicators (KPIs).
+- Integrate all team members' work into one complete Jupyter Notebook.
 
-## Technologies and Tools
+**Deliverables:**
+- Python/PySpark code
+- KPI summary table
+- Analytical findings and interpretations
+- Final integrated Jupyter Notebook (`.ipynb`)
 
-- **Python** – Data analysis and programming
-- **PySpark** – Large-scale data processing and aggregation
-- **Pandas** – Handling aggregated data for visualization
-- **Matplotlib / Seaborn** – Data visualization
-- **Jupyter Notebook** – Coding, analysis, and documentation
+### 2. Sales Performance Analysis (Tasks 5–7)
+**Responsibilities:**
+- Analyze sales revenue by time, product, and country.
+- Identify sales trends, top-performing products, and key markets.
 
-## Project Requirements
+**Deliverables:**
+- Python/PySpark code
+- At least 3 visualizations
+- Data-driven answers to 3 business questions
 
-1. **Jupyter Notebook (.ipynb):** Includes source code, execution outputs, visualizations, and analytical interpretations.
-2. **Project Report:** Includes a cover page, team member responsibilities, methodology, findings, and conclusions.
-3. **Data Visualization:** At least five charts. Only aggregated data should be converted from PySpark DataFrames to Pandas for visualization.
-4. **Business Questions:** At least six business questions must be answered using data-driven analysis.
-5. **Conclusions:** Present 3–5 key business insights and three actionable business recommendations.
+### 3. Customer Analytics & RFM (Tasks 8–9)
+**Responsibilities:**
+- Analyze customer behavior and revenue concentration.
+- Perform Recency, Frequency, and Monetary (RFM) analysis to segment customers.
 
-## Project Workflow
+**Deliverables:**
+- Python/PySpark code
+- At least 2 visualizations
+- Data-driven answers to 3 business questions
 
-1. Data loading and exploration
-2. Data cleaning and preprocessing using PySpark
-3. Exploratory data analysis (EDA)
-4. Business question formulation and analysis
-5. Data aggregation and visualization
-6. Business insights and recommendations
+### 4. Spark SQL, Pareto Analysis & Final Report (Tasks 10–11)
+**Responsibilities:**
+- Execute 6 Spark SQL queries.
+- Conduct Pareto (80/20) analysis.
+- Develop 3–5 key business insights and 3 actionable recommendations.
+- Compile and finalize the project report.
 
-## Expected Deliverables
+**Deliverables:**
+- Python/PySpark and Spark SQL code
+- Analytical results and interpretations
+- Final comprehensive project report
 
-| Deliverable | Description |
+---
+
+## Final Project Deliverables
+
+- **01 Jupyter Notebook (`.ipynb`):** Complete source code, outputs, visualizations, and analytical interpretations.
+- **01 Project Report:** Cover page, team member contributions, business analysis, key findings, and recommendations.
+- **At least 5 visualizations:** Only aggregated PySpark data may be converted to Pandas for visualization.
+- **At least 6 business questions:** Answered using data-driven evidence.
+- **3–5 business insights and 3 actionable recommendations.**
+
+## Task
+| Task | Name |
 |---|---|
-| Jupyter Notebook | Complete PySpark analysis with code, outputs, and interpretations |
-| Project Report | Detailed report including a cover page and team member contributions |
-| Visualizations | At least 5 charts based on aggregated data |
-| Business Analysis | Answers to at least 6 business questions |
-| Conclusions | 3–5 business insights and 3 actionable recommendations |
-
-
-| Team Member | Name |
-|---|---|
-| Member 1 | Nguyễn Thị Chinh |
-| Member 2 | Nguyễn Thị Thu Thảo |
-| Member 3 | Châu Phương Uyên |
-| Member 4 | Đỗ Mạnh Quỳnh |
+| 1. Data Preparation & KPI | Đỗ Mạnh Quỳnh |
+| 2. Sales Performance Analysis | Châu Phương Uyên |
+| 3. Customer Analytics & RFM | Nguyễn Thị Thu Thảo |
+| 4. Spark SQL, Pareto Analysis & Final Report | Nguyễn Thị Chinh |
