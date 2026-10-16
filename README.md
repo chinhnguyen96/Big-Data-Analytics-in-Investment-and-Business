@@ -2,11 +2,10 @@
 
 ## Project Overview
 
-This project is part of **Case Study 1: Sales Data Analysis Using PySpark** for the course *Big Data Analytics in Investment and Business* at the University of Economics Ho Chi Minh City (UEH).
+This project is part of **Case Study 1: Sales Data Analysis Using PySpark** 
 
 The project aims to analyze sales data using **PySpark** to identify sales trends, evaluate business performance, and generate actionable insights to support data-driven decision-making.
 
-## Team Task Assignment
 
 ### 1. Data Preparation & KPI (Tasks 1–4)
 **Responsibilities:**
